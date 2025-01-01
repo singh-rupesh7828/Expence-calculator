@@ -1,7 +1,7 @@
 const form = document.querySelector('#transaction-form');
 const transaction_amount = document.querySelector('#transaction_amount')
 const transaction_type = document.querySelector('#transaction_type')
-const summary = document.querySelector('#summary')
+const Summary = document.querySelector('#summary')
 
 let total_transection = []
 
